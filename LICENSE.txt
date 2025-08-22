@@ -1,0 +1,11 @@
+Copyright (c) 2025 Mikołaj
+
+All rights reserved.
+
+This software and its source code are the intellectual property of the author. 
+You are not permitted to copy, distribute, modify, or sell this software or any derivative works 
+without explicit written permission from the author.
+
+Usage is allowed for personal, non-commercial purposes only.
+
+For permission requests, contact:kmikolaj145@gmail.com
